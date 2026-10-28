@@ -19,7 +19,6 @@ Voici quelques-unes des technologies avec lesquelles j’aime travailler :
 
 ## 🚀 Projets en cours / à venir
 
-- **Projet d'un site E-Commerce** à venir
 - **Projet Portfolio** : Présentation de mes compétences / Diplôme
 
 ---
