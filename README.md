@@ -35,7 +35,7 @@ Je souhaite également partager mes connaissances et collaborer avec d’autres 
 - GitHub : [MaelBallereau](https://github.com/MaelBallereau)  
 - Email : *maelballereau363@gmail.com*  
 - Linkedin : [mael-ballereau](www.linkedin.com/in/mael-ballereau-320042298)
-- 📂 Portfolio : (https://[[mael-ballereau.vercel.app](https://mael-ballereau.fr/)](https://mael-ballereau.fr/))   
+- 📂 Portfolio : [https://mael-ballereau.fr](https://mael-ballereau.fr)
 
 ---
 
